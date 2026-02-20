@@ -1,2 +1,2 @@
 # Indian_Agriculture_Analysis_System
-Indian_Agriculture_Analysis_System is a full-stack agricultural data analysis system that provides state-wise crop production insights using PostgreSQL and interactive dashboards.
+Indian Agriculture Analysis System is a full-stack agricultural data analysis system that provides state-wise crop production insights using PostgreSQL and interactive dashboards.
